@@ -1,6 +1,5 @@
-<center><B><U>Optiver – Hacker Rank  31 July 2025</U></B></center>
+<center><B><U>Question 1</U></B></center><BR>
 
-__*Question 1*__
 
 A satellite network is experimenting with a distributed communication protocol based on satellite connections.
 During System tests, the team wants to ensure that messages they sent are processed in the correct order. The protocol look like so:
